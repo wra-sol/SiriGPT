@@ -52,6 +52,7 @@ Keep in mind that it may happen that the Shortcut may not work due to the overlo
 - [Apple Siri][apple-siri]
 - [OpenAI][open-ai]
 - [ChatGPT][chaGPT]
+- [Data Jar][data-jar]
 
 ### Contribution
 
@@ -71,4 +72,5 @@ improvements are welcome!<br/><br/>
 [apple-siri]: https://www.apple.com/siri/
 [open-ai]: https://openai.com
 [chaGPT]: https://openai.com/blog/chatgpt
+[data-jar]: https://datajar.app
 [issues]: https://github.com/nicolodiamante/SiriGPT/issues
