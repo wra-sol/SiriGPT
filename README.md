@@ -2,7 +2,7 @@
 
 The technologies driving the new wave of chatbots have been percolating for years. But the release of [ChatGPT][chaGPT] really opened people’s eyes. It set off a new arms race across Silicon Valley. However, AI is not new as voice assistants like [Siri][apple-siri] have been here for quite a long time. In the same vein though, most will agree that Siri does not pack a lot of intelligence in her artificial brain. But what if I told you that you can combine the best of both worlds and actually get ChatGPT to work with Siri?<br/><br/>
 
-<p align="center"><a href="#"><img src="https://user-images.githubusercontent.com/48920263/228290609-e7348ccc-f87e-4885-90a0-1526f35cb917.png" draggable="false" ondragstart="return false;" alt="Siri conbined with ChatGPT" title="Siri conbined with ChatGPT" width="590px" /></a></p>
+<p align="center"><a href="#"><img src="https://user-images.githubusercontent.com/48920263/228290609-e7348ccc-f87e-4885-90a0-1526f35cb917.png" draggable="false" ondragstart="return false;" alt="IMG show Siri conbined with ChatGPT" title="Siri conbined with ChatGPT" width="590px" /></a></p>
 
 The process for combining ChatGPT with Siri is quite simple, however, it has requirements and links you need, so make sure you have them all before proceeding.<br/><br/>
 
@@ -18,11 +18,11 @@ The integration of ChatGPT into Siri works through a handy shortcut that will ru
 
 To successfully use ChatGPT’s services with Siri, you need its API. ChatGPT’s API key can be accessed through your OpenAI account [here][open-ai-account]. Once logged in, you will see the option to “Create new secret key” click on it to generate an API key.
 
-<p align="center"><a href="#"><img src="https://user-images.githubusercontent.com/48920263/228292392-f546e78b-0add-4e02-b808-1d993a271bfd.png" draggable="false" ondragstart="return false;" alt="Download Shortcut" title="Download Shortcut" width="590px" /></a></p>
+<p align="center"><a href="#"><img src="https://user-images.githubusercontent.com/48920263/228292392-f546e78b-0add-4e02-b808-1d993a271bfd.png" draggable="false" ondragstart="return false;" alt="IMG show how to create new secret key" title="Create new secret key" width="590px" /></a></p>
 
 If you do not have an OpenAI account, you can create one [here][open-ai-API] and then visit the above link. Once done, copy the ChatGPT API key.
 
-<p align="center"><a href="#"><img src="https://user-images.githubusercontent.com/48920263/228229596-1df07127-28d6-49db-9031-38fc28f68adf.png" draggable="false" ondragstart="return false;" alt="Download Shortcut" title="Download Shortcut" width="590px" /></a></p>
+<p align="center"><a href="#"><img src="https://user-images.githubusercontent.com/48920263/228229596-1df07127-28d6-49db-9031-38fc28f68adf.png" draggable="false" ondragstart="return false;" alt="IMG show an example of a ChatGPT API Key" title="ChatGPT API Key" width="590px" /></a></p>
 
 **Note:** Remember that once you copy the key and close the pop-up, you won't be able to view it again. So keep it somewhere safe.
 <br/><br/>
@@ -34,11 +34,11 @@ Once you have downloaded the shortcut and copied the API key, it’s time to mak
 1. Open the Shortcuts app to access the downloaded "Explain Me" shortcut.
 2. Once the shortcut has been launched, follow the prompts to set where to store your API key. You will be asked to keep it within the shortcut or store it inside Data Jar.
 
-<p align="center"><a href="#"><img src="https://user-images.githubusercontent.com/48920263/228291483-0db96d2f-85dc-4bb0-a72a-87d1da1649e6.png" draggable="false" ondragstart="return false;" alt="Paste your chatGPT API key here" title="Paste your chatGPT API key here" width="590px" /></a></p>
+<p align="center"><a href="#"><img src="https://user-images.githubusercontent.com/48920263/228291483-0db96d2f-85dc-4bb0-a72a-87d1da1649e6.png" draggable="false" ondragstart="return false;" alt="IMG show where paste your ChatGPT API key" title="Paste your ChatGPT API key here" width="590px" /></a></p>
 
 All done! ChatGPT has now been integrated with Siri. You can call the Shortcut by either tapping on the shortcut from the app or from the menu bar on your Mac. You can also call the shortcut by saying "Hey Siri" followed by "Explain Me" your smart assistant will launch directly into ChatGPT. This means that you now have the most powerful AI chatbot as an assistant.
 
-<p align="center"><a href="#"><img src="https://user-images.githubusercontent.com/48920263/228291693-980b98a8-fbc5-4c60-8c55-e9dfb184d12f.png" draggable="false" ondragstart="return false;" alt="ChatGPT launched with Siri" title="ChatGPT launched with Siri" width="590px" /></a></p>
+<p align="center"><a href="#"><img src="https://user-images.githubusercontent.com/48920263/228594485-a926f4c5-cf70-4368-941d-a2db7ea50484.png" draggable="false" ondragstart="return false;" alt="ChatGPT launched with Siri" title="ChatGPT launched with Siri" width="590px" /></a></p>
 
 <br/>
 
