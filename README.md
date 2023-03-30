@@ -10,9 +10,9 @@ The process for combining ChatGPT with Siri is quite simple, however, it has req
 
 ### Get the Shortcut
 
-The integration of ChatGPT into Siri works through a handy shortcut that will run on your iPhone or Mac. As such, it is necessary to download the Siri shortcut. While the shortcut is named "Explain Me", you can always rename it to whatever you prefer. Download the shortcut by clicking the icon below, but don't run it yet. Once downloaded, keep reading.<br/><br/>
+The integration of ChatGPT into Siri works through a handy shortcut that will run on your iPhone or Mac. As such, it is necessary to download the Apple Shortcuts app. While the shortcut is named "Explain Me", you can always rename it to whatever you prefer. Download the shortcut by clicking the icon below, but don't run it yet. Once downloaded, keep reading.<br/><br/>
 
-<p align="center"><a href="https://www.icloud.com/shortcuts/aab98c791e39458cb9c5ea00d9b63d6d"><img src="https://user-images.githubusercontent.com/48920263/228290806-6619c79b-9eef-435e-88c1-dbd07d44f07c.png" draggable="false" ondragstart="return false;" alt="Download Shortcut" title="Download Shortcut" width="590px" /></a></p><br/><br/>
+<p align="center"><a href="https://www.icloud.com/shortcuts/ffbd9b237d5845488dbe269445557379"><img src="https://user-images.githubusercontent.com/48920263/228290806-6619c79b-9eef-435e-88c1-dbd07d44f07c.png" draggable="false" ondragstart="return false;" alt="Download Shortcut" title="Download Shortcut" width="590px" /></a></p><br/><br/>
 
 ### Create your ChatGPT API Key
 
