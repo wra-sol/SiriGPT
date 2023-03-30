@@ -42,7 +42,7 @@ All done! ChatGPT has now been integrated with Siri. You can call the Shortcut b
 
 <br/>
 
-A few hints: you may think I've used ChatGPT, but it doesn't seem that great. Well, it turns out lots of people are using it wrong, the trick is to make it answer and not think. A good pattern to follow is to be as specific as possible about the output, a vague input will give you a vague answer. Ask for a clear response and provide a detailed list of things he should avoid. It all makes sense. You can't give a worker fake instructions and expect a good result. Keep in mind that it may happen that the shortcut may not work due to the overload of the OpenAI servers.
+A few hints: you may think I've used ChatGPT, but it doesn't seem that great. Well, it turns out lots of people are using it wrong, the trick is to make it answer and not think. A good pattern to follow is to be as specific as possible about the output, a vague input will give you a vague answer. Ask for a clear response and provide a detailed list of things he should avoid. It all makes sense. You can't give a worker fake instructions and expect a good result. Keep in mind that it may happen that the shortcut may not work due to the overload of the OpenAI servers.<br/><br/>
 
 ## Notes
 ### Resources
