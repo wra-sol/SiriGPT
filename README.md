@@ -18,11 +18,11 @@ The integration of ChatGPT into Siri works through a handy shortcut that will ru
 
 To successfully use ChatGPT’s services with Siri, you need its API. ChatGPT’s API key can be accessed through your OpenAI account [here][open-ai-account]. Once logged in, you will see the option to “Create new secret key” click on it to generate an API key.<br/><br/>
 
-<p align="center"><a href="#"><img src="https://user-images.githubusercontent.com/48920263/228598524-73c94693-941d-4a3a-8230-649bd3999ff8.png" draggable="false" ondragstart="return false;" alt="IMG show how to create new secret key" title="Create new secret key" width="590px" /></a></p><br/><br/>
+<p align="center"><a href="#"><img src="https://user-images.githubusercontent.com/48920263/229297852-ea102356-4720-45b0-8db1-04e3d9534e8a.png" draggable="false" ondragstart="return false;" alt="IMG show how to create new secret key" title="Create new secret key" width="590px" /></a></p><br/><br/>
 
 If you do not have an OpenAI account, you can create one [here][open-ai-API] and then visit the above link. Once done, copy the ChatGPT API key.<br/><br/>
 
-<p align="center"><a href="#"><img src="https://user-images.githubusercontent.com/48920263/228598729-9a3c9f4c-2aff-4da9-8dae-4d41e3e241bd.png" draggable="false" ondragstart="return false;" alt="IMG show an example of a ChatGPT API Key" title="ChatGPT API Key" width="590px" /></a></p><br/><br/>
+<p align="center"><a href="#"><img src="https://user-images.githubusercontent.com/48920263/229298228-8ae23ae3-be9d-446a-b2b4-1f6496478e20.png" draggable="false" ondragstart="return false;" alt="IMG show an example of a ChatGPT API Key" title="ChatGPT API Key" width="590px" /></a></p><br/><br/>
 
 **Note:** Remember that once you copy the key and close the pop-up, you won't be able to view it again. So keep it somewhere safe.
 <br/><br/>
