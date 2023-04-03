@@ -12,7 +12,7 @@ The process for combining ChatGPT with Siri is quite simple, however, it has req
 
 The integration of ChatGPT into Siri works through a handy shortcut that will run on your iPhone or Mac. As such, it is necessary to download the Apple Shortcuts app. While the shortcut is named "Explain Me", you can always rename it to whatever you prefer. Download the shortcut by clicking the icon below, but don't run it yet. Once downloaded, keep reading.<br/><br/>
 
-<p align="center"><a href="https://www.icloud.com/shortcuts/260b69523fde4ae1bab49e6695abf46b"><img src="https://user-images.githubusercontent.com/48920263/228290806-6619c79b-9eef-435e-88c1-dbd07d44f07c.png" draggable="false" ondragstart="return false;" alt="Download Shortcut" title="Download Shortcut" width="590px" /></a></p><br/><br/>
+<p align="center"><a href="https://www.icloud.com/shortcuts/73e48626f4ae441f85e9555f415a10cf"><img src="https://user-images.githubusercontent.com/48920263/228290806-6619c79b-9eef-435e-88c1-dbd07d44f07c.png" draggable="false" ondragstart="return false;" alt="Download Shortcut" title="Download Shortcut" width="590px" /></a></p><br/><br/>
 
 ### Create your ChatGPT API Key
 
@@ -36,13 +36,17 @@ Once you have downloaded the shortcut and copied the API key, it’s time to mak
 
 <p align="center"><a href="#"><img src="https://user-images.githubusercontent.com/48920263/228598339-f7c503ca-a23c-442d-80d4-b2a72816d331.png" draggable="false" ondragstart="return false;" alt="IMG show where paste your ChatGPT API key" title="Paste your ChatGPT API key here" width="590px" /></a></p><br/><br/>
 
-All done! ChatGPT has now been integrated with Siri. You can call the Shortcut by either tapping on the shortcut from the app or from the menu bar on your Mac. You can also call the shortcut by saying "Hey Siri" followed by "Explain Me" your smart assistant will launch directly into ChatGPT. This means that you now have the most powerful AI chatbot as an assistant.<br/><br/>
+All done! ChatGPT has now been integrated with Siri. You can launch the Shortcut by tapping it within the app or from the menu bar on your Mac. You can also call it by saying "Hey Siri" followed by "Explain Me" and it will launch ChatGPT. This means that you now have the most potent chatbot as your assistant.<br/><br/>
 
 <p align="center"><a href="#"><img src="https://user-images.githubusercontent.com/48920263/228599582-bd37ee5d-53ac-4ed7-aadd-126bcd08cc08.png" draggable="false" ondragstart="return false;" alt="ChatGPT launched with Siri" title="ChatGPT launched with Siri" width="590px" /></a></p>
 
 <br/>
 
 **A few hints:** you may think I've used ChatGPT, but it doesn't seem that great. Well, it turns out lots of people are using it wrong, the trick is to make it answer and not think. A good pattern to follow is to be as specific as possible about the output, a vague input will give you a vague answer. Ask for a clear response and provide a detailed list of things he should avoid. It all makes sense. You can't give a worker fake instructions and expect a good result. Keep in mind that it may happen that the shortcut may not work due to the overload of the OpenAI servers.<br/><br/>
+
+<p align="center"><a href="#"><img src="https://user-images.githubusercontent.com/48920263/229504922-4064ce55-de8b-45fe-9738-4e9253931996.png" draggable="false" ondragstart="return false;" alt="ChatGPT different languages" title="ChatGPT different languages" width="590px" /></a></p>
+
+<br/>
 
 ## Notes
 ### Resources
