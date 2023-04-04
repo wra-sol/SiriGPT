@@ -27,7 +27,9 @@ If you do not have an OpenAI account, you can create one [here][open-ai-API] and
 **Note:** Remember that once you copy the key and close the pop-up, you won't be able to view it again. So keep it somewhere safe.
 <br/><br/>
 
-### How to Set up and use ChatGPT with Siri
+## How to Set up and use ChatGPT with Siri
+
+### Setting Up
 
 Once you have downloaded the shortcut and copied the API key, it’s time to make it work and see it in action:
 
