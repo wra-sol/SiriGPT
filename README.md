@@ -53,7 +53,7 @@ You may think I've used ChatGPT, but it doesn't seem that great. Well, it turns 
 
 <br/>
 
-**Hint:** If you downloaded the [DALL·E Shortcut][si-met-le] you can combine both by downloading this additional [Shortcut][shortcut-link]. With this solution, you can still launch them separately.
+**Hint:** If you downloaded the [DALL·E Shortcut][siri-E] you can combine both by downloading this additional [Shortcut][shortcut-link]. With this solution, you can still launch them separately.
 <br/><br/>
 
 ## Notes
@@ -81,7 +81,7 @@ improvements are welcome!<br/><br/>
 [open-ai-account]: https://chat.openai.com/auth/login
 [open-ai-API]: https://beta.openai.com/account/api-keys
 [open-ai-models]: https://platform.openai.com/docs/models
-[si-met-le]: https://github.com/nicolodiamante/si-met-le
+[siri-E]: https://github.com/nicolodiamante/Siri-E
 [shortcut-link]: https://www.icloud.com/shortcuts/69cfa2e9424a49e284e827e5f119c27c
 [apple-shortcuts-guide]: https://support.apple.com/en-gb/guide/shortcuts/apd58d46713f/ios
 [apple-siri]: https://www.apple.com/siri/
