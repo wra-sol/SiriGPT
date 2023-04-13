@@ -92,7 +92,6 @@ improvements are welcome!<br/><br/>
 [open-ai-API]: https://beta.openai.com/account/api-keys
 [open-ai-models]: https://platform.openai.com/docs/models
 [siri-E]: https://github.com/nicolodiamante/Siri-E
-[shortcut-link]: https://www.icloud.com/shortcuts/69cfa2e9424a49e284e827e5f119c27c
 [apple-shortcuts-guide]: https://support.apple.com/en-gb/guide/shortcuts/apd58d46713f/ios
 [apple-siri]: https://www.apple.com/siri/
 [open-ai]: https://openai.com
