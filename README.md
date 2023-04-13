@@ -47,16 +47,25 @@ All done! ChatGPT has now been integrated with Siri. You can launch the Shortcut
 
 ### Considerations
 
-You may think I've used ChatGPT, but it doesn't seem that great. Well, it turns out lots of people are using it wrong, the trick is to make it answer and not think. A good pattern to follow is to be as specific as possible about the output, a vague input will give you a vague answer. Ask for a clear response and provide a detailed list of things he should avoid. It all makes sense. You can't give a worker fake instructions and expect a good result. Keep in mind that it may happen that the shortcut may not work due to the overload with other requests of the OpenAI servers.<br/><br/>
+You may think I've used ChatGPT, but it doesn't seem that great. Well, it turns out lots of people are using it wrong, the trick is to make it answer and not think. A good pattern to follow is to be as specific as possible about the output, a vague input will give you a vague answer. Ask for a clear response and provide a detailed list of things he should avoid. It all makes sense. You can't give a worker fake instructions and expect a good result.<br/><br/>
 
 <p align="center"><a href="#"><img src="https://user-images.githubusercontent.com/48920263/230881124-8e539864-c5c1-4517-84c6-a376bb8f6bb1.png" draggable="false" ondragstart="return false;" alt="Example ChatGPT in use" title="Example ChatGPT in use" width="590px" /></a></p>
 
 <br/>
 
-**Hint:** If you downloaded the [DALL·E Shortcut][siri-E] you can combine both by downloading this additional [Shortcut][shortcut-link]. With this solution, you can still launch them separately.
+**Hint:** if you want prompts tailored for any situation, whether it's academic essays, creative writing, or problem-solving, you can ask chatGPT to create prompts that lead to the results you're looking for. Starting with the prompt below, we will then iterate the output to arrive at the prompt that gives us the desired result.
+
+    You, ChatGPT, will be my prompt engineer. We will iterate the prompts you issue to arrive at a prompt that gives me the desired output. The first output you give me will ask what the prompt is about, with a few questions to get us on the right track. Then, once you have an initial understanding of what the prompt is about, you'll provide me with the first iteration. Then you will ask more questions to improve the prompt. We will continue this iterative process until we get to the prompt we need to generate my desired output.
+<br/>
+
+>Keep in mind that it may happen that the Shortcut may not work due to the overload with other requests of the OpenAI servers.
+
 <br/><br/>
 
 ## Notes
+
+If you downloaded the [DALL·E Shortcut][siri-E] you can combine both by downloading this additional [Shortcut][shortcut-link]. With this solution, you can still launch them separately.
+
 ### Resources
 
 - [Shortcuts User Guide][apple-shortcuts-guide]
