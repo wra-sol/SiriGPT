@@ -61,10 +61,12 @@ You may think I've used ChatGPT, but it doesn't seem that great. Well, it turns 
 >Keep in mind that it may happen that the Shortcut may not work due to the overload with other requests of the OpenAI servers.
 
 <br/><br/>
-
 ## Notes
 
-If you downloaded the [DALL·E Shortcut][siri-E] you can combine both by downloading this additional [Shortcut][shortcut-link]. With this solution, you can still launch them separately.
+If you downloaded the [DALL·E Shortcut][siri-E] you can combine both by downloading this additional shortcut by clicking on the image below. With this solution, you'll still able to launch them separately
+
+<p align="center"><a href="https://www.icloud.com/shortcuts/69cfa2e9424a49e284e827e5f119c27c"><img src="https://user-images.githubusercontent.com/48920263/231780609-170d8df1-aa09-4e0e-ad4a-237c2934bb09.png" draggable="false" ondragstart="return false;" alt="Example ChatGPT in use" title="Example ChatGPT in use" width="590px" /></a></p>
+<br/><br/>
 
 ### Resources
 
