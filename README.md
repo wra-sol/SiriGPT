@@ -65,8 +65,7 @@ You may think I've used ChatGPT, but it doesn't seem that great. Well, it turns 
 
 If you downloaded the [DALL·E Shortcut][siri-E] you can combine both by downloading this additional shortcut by clicking on the image below. With this solution, you'll still able to launch them separately
 
-<p align="center"><a href="https://www.icloud.com/shortcuts/69cfa2e9424a49e284e827e5f119c27c"><img src="https://user-images.githubusercontent.com/48920263/231785832-15fb6a05-a19c-4f61-ba28-84ad73666849.png" draggable="false" ondragstart="return false;" alt="Example ChatGPT in use" title="Example ChatGPT in use" width="590px" /></a></p>
-<br/><br/>
+<p align="center"><a href="https://www.icloud.com/shortcuts/69cfa2e9424a49e284e827e5f119c27c"><img src="https://user-images.githubusercontent.com/48920263/231785832-15fb6a05-a19c-4f61-ba28-84ad73666849.png" draggable="false" ondragstart="return false;" alt="Download OpenAI Shortcut" title="Download OpenAI Shortcut" width="590px" /></a></p>
 
 ### Resources
 
