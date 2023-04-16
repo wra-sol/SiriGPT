@@ -53,19 +53,10 @@ You may think I've used ChatGPT, but it doesn't seem that great. Well, it turns 
 
 <br/>
 
-**Hint:** if you want prompts tailored for any situation, whether it's academic essays, creative writing, or problem-solving, you can ask chatGPT to create prompts that lead to the results you're looking for. Starting with the prompt below, we will then iterate the output to arrive at the prompt that gives us the desired result.
-
-    You, ChatGPT, will be my prompt engineer. We will iterate the prompts you issue to arrive at a prompt that gives me the desired output. The first output you give me will ask what the prompt is about, with a few questions to get us on the right track. Then, once you have an initial understanding of what the prompt is about, you'll provide me with the first iteration. Then you will ask more questions to improve the prompt. We will continue this iterative process until we get to the prompt we need to generate my desired output.
-<br/>
-
 >Keep in mind that it may happen that the Shortcut may not work due to the overload with other requests of the OpenAI servers.
 
 <br/><br/>
 ## Notes
-
-If you downloaded the [DALL·E Shortcut][siri-E] you can combine both by downloading this additional shortcut by clicking on the image below. With this solution, you'll still able to launch them separately
-
-<p align="center"><a href="https://www.icloud.com/shortcuts/69cfa2e9424a49e284e827e5f119c27c"><img src="https://user-images.githubusercontent.com/48920263/231785832-15fb6a05-a19c-4f61-ba28-84ad73666849.png" draggable="false" ondragstart="return false;" alt="Download OpenAI Shortcut" title="Download OpenAI Shortcut" width="590px" /></a></p>
 
 ### Resources
 
@@ -74,6 +65,7 @@ If you downloaded the [DALL·E Shortcut][siri-E] you can combine both by downloa
 - [OpenAI][open-ai]
 - [OpenAI Models][open-ai-models]
 - [ChatGPT][chaGPT]
+- [ChatGPT Completions][chat-completions]
 - [Data Jar][data-jar]
 
 ### Contribution
@@ -96,5 +88,6 @@ improvements are welcome!<br/><br/>
 [apple-siri]: https://www.apple.com/siri/
 [open-ai]: https://openai.com
 [chaGPT]: https://openai.com/blog/chatgpt
+[chat-completions]: https://platform.openai.com/docs/guides/chat
 [data-jar]: https://datajar.app
 [issues]: https://github.com/nicolodiamante/SiriGPT/issues
