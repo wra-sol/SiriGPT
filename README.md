@@ -1,3 +1,11 @@
+### Welcome to Shortcuts Microservices GPT.
+
+This is a fork of SiriGPT, which eliminates the speakaloud, and focuses on the content. 
+
+This shortcut allows you to harness the power of ChatGPT alongside any other shortcut. You can *pass in prompts* programmatically using Shortcuts.
+
+#### [Shortcuts Microservices GPT](https://www.icloud.com/shortcuts/1e094e17e5b0478da1d903d54b1ad8e5)
+___
 <p align="center"><a href="#"><img src="https://user-images.githubusercontent.com/48920263/228290334-e8673b16-afd2-4039-8a17-52fbf5d832e5.png" draggable="false" ondragstart="return false;" alt="SiriGPT Title" title="SiriGPT" /></a></p>
 
 The technologies driving the new wave of chatbots have been percolating for years. But the release of [ChatGPT][chaGPT] really opened people’s eyes. It set off a new arms race across Silicon Valley. However, AI is not new as voice assistants like [Siri][apple-siri] have been here for quite a long time. In the same vein though, most will agree that Siri does not pack a lot of intelligence in her artificial brain. But what if I told you that you can combine the best of both worlds and actually get ChatGPT to work with Siri?
@@ -12,7 +20,7 @@ The process for combining ChatGPT with Siri is quite simple, however, it has req
 
 The integration of ChatGPT into Siri works through a handy shortcut that will run on your iPhone or Mac. As such, it is necessary to download the Apple Shortcuts app. While the shortcut is named "Explain Me", you can always rename it to whatever you prefer. Download the shortcut by clicking the icon below, but don't run it yet. Once downloaded, keep reading.<br/><br/>
 
-<p align="center"><a href="https://www.icloud.com/shortcuts/1150461dcd8b4e76b246f5e1e4fbcb14"><img src="https://user-images.githubusercontent.com/48920263/230475450-3dadf478-7d83-4dd8-8b16-02fcd1e3a7c8.png" draggable="false" ondragstart="return false;" alt="Download Shortcut" title="Download Shortcut" width="590px" /></a></p><br/><br/>
+<p align="center"><a href="https://www.icloud.com/shortcuts/568597274d914c42aeb7355599aecba5"><img src="https://user-images.githubusercontent.com/48920263/230475450-3dadf478-7d83-4dd8-8b16-02fcd1e3a7c8.png" draggable="false" ondragstart="return false;" alt="Download Shortcut" title="Download Shortcut" width="590px" /></a></p><br/><br/>
 
 ### Create your OpenAI API Key
 
